@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pdfplumber
+spacy
+sentence-transformers
+streamlit
